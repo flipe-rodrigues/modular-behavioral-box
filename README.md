@@ -42,11 +42,11 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 <img src = "https://github.com/user-attachments/assets/37f7c9cb-f71d-437d-adc9-434d30e29ade" width="400">
 
-**6.** Glue all your module layers (cutouts from step 1) together using acrylic glue;
+**6.** Glue the three layers of all your modules (cutouts from step 1) together using acrylic glue;
 
 <img src = "https://github.com/user-attachments/assets/a88496cf-0ec7-4dcf-afcb-167fad5ca199" width="400">
 
-**7.** 
+**7.** Print/cut the two files under [print/locks](print/locks/);
 
 ### box (populated)
 <img src = "https://github.com/user-attachments/assets/772f6224-1d22-4d6e-9ab9-e0341415e778" width="400">
