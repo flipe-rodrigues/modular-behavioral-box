@@ -52,11 +52,12 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 > missing photo
 
-**9.** Place all lock _feet_ inside their corresponding slots in all walls;
+**9.** Place all lock _feet_ inside their corresponding slots in all walls, and then insert all lock _handles_;
 
 ![locks](https://github.com/user-attachments/assets/bb2df25e-8a3e-4305-8b54-04f5ab7d51aa)
 
-### box (populated)
+**10.** Populate the box with modules (i.e., place & lock them);
+
 <img src = "https://github.com/user-attachments/assets/772f6224-1d22-4d6e-9ab9-e0341415e778" width="400">
 
 ### box (running)
