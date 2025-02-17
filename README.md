@@ -1,6 +1,9 @@
 # Modular behavioral box
 Drawings for cutting all the necessary pieces for assembling a modular behavioral box for rats and mice using 5-mm-thick acrylic.
 
+> better intro/motivation;
+> mention wall modularity;
+
 <!--
 ## Project structure
 - **drawings/**: Contains vector graphics files for all components of the box (i.e., walls & modules).
@@ -76,8 +79,4 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 <img src = "https://github.com/user-attachments/assets/ac34d82c-6810-4175-870f-e7a0f0f9fd26" width="400">
 
-## Readme-related TODO
-
-- Better intro/motivation;
-- Step by step guide on assembling a poke module;
-- Fix all 'missing media' instances;
+> missing a step by step guide on assembling a poke module;
