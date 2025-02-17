@@ -12,7 +12,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 ## Parts list
 
-- General across walls & modules:
+- General across all walls & modules:
   - 5-mm-thick acrylic;
   - acrylic glue;
   - 20-mm M3 spacers;
