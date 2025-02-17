@@ -38,7 +38,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 > missing photo
 
-**5.** Screw walls together with 10-mm M3 screws.
+**5.** Screw walls together with 10-mm M3 screws;
 
 <img src = "https://github.com/user-attachments/assets/37f7c9cb-f71d-437d-adc9-434d30e29ade" width="400">
 
@@ -49,12 +49,8 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 3. Print/cut the [print/two-boxes/outer.pdf](print/box/outer.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the outside layer of the box (**crystal** in the examples below);
 -->
 
-### Populating boxes with modules:
-1. ...
-2. ...
-3. ...
+**6.** Take all your module cutout layers (from step 1) and glue them together using acrylic glue;
 
-### modules (unassembled)
 <img src = "https://github.com/user-attachments/assets/a88496cf-0ec7-4dcf-afcb-167fad5ca199" width="400">
 
 ### box (unpopulated)
