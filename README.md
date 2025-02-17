@@ -31,6 +31,8 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 > missing media
 
 **2.** Glue the three main layers of the wall together using acrylic glue;
+> [!CAUTION]
+> Wear a mask and gloves.
 
 <img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="400">
 
