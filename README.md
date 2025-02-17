@@ -14,10 +14,12 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 - General across all walls & modules:
   - 5-mm-thick acrylic;
-  - acrylic glue;
   - 20-mm M3 spacers;
   - 10-mm M3 screws;
   - M3 nuts;
+  - acrylic glue + brush;
+> [!CAUTION]
+> Be sure to always wear a mask and gloves whenever handling acrylic glue, and to do it in a well-ventilated place.
 
 - Specific to poke & light modules:
   - NeoPixel 16-LED RGB rings;
@@ -31,8 +33,6 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 > missing media
 
 **2.** Glue the three main layers of the wall together using acrylic glue;
-> [!CAUTION]
-> Wear a mask and gloves.
 
 <img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="400">
 
