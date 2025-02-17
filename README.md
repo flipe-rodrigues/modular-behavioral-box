@@ -42,7 +42,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 <img src = "https://github.com/user-attachments/assets/37f7c9cb-f71d-437d-adc9-434d30e29ade" width="400">
 
-**6.** Glue the three layers of all your modules (cutouts from step 1) together using acrylic glue;
+**6.** Glue the three layers of all your modules (cutouts from step 1) together using acrylic glue. **Tip**: use a wall as gluing jig;
 
 <img src = "https://github.com/user-attachments/assets/a88496cf-0ec7-4dcf-afcb-167fad5ca199" width="400">
 
