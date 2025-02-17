@@ -42,16 +42,16 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 <img src = "https://github.com/user-attachments/assets/a88496cf-0ec7-4dcf-afcb-167fad5ca199" width="400">
 
 ### box (unpopulated)
-<img src = "media/photos/unpopulated.jpg" width="400">
+<img src = "https://github.com/user-attachments/assets/37f7c9cb-f71d-437d-adc9-434d30e29ade" width="400">
 
 ### box (populated)
-<img src = "media/photos/populated.jpg" width="400">
+<img src = "https://github.com/user-attachments/assets/772f6224-1d22-4d6e-9ab9-e0341415e778" width="400">
 
 ### box (running)
-<img src = "media/photos/running.jpg" width="400">
+<img src = "https://github.com/user-attachments/assets/901709b5-a7c0-4837-b496-896086428e98" width="400">
 
 ### box (inside)
-<img src = "media/photos/inside.jpg" width="400">
+<img src = "https://github.com/user-attachments/assets/8f1606f9-b176-494c-8f52-d81dfaa19538" width="400">
 
 ### rig
-<img src = "media/photos/rig.jpg" width="400">
+<img src = "https://github.com/user-attachments/assets/ac34d82c-6810-4175-870f-e7a0f0f9fd26" width="400">
