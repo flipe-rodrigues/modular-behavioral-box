@@ -19,7 +19,10 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
   - NeoPixel 16-LED RGB rings;
 
 ## Usage
-Print/cut the [print/box/inner.pdf](print/box/inner.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the inside of the box (white in the examples below).
+
+### Building 2 boxes
+  1. Print/cut the [print/box/inner.pdf](print/box/inner.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the inside of the box (**white** in the examples below).
+  2. Print/cut the [print/box/middle.pdf](print/box/middle.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the intermediate layer of the box (**black** in the examples below).
 
 ### wall
 <img src = "media/photos/wall.jpg" width="400">
