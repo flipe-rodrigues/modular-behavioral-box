@@ -65,7 +65,9 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 <img src = "https://github.com/user-attachments/assets/901709b5-a7c0-4837-b496-896086428e98" width="400">
 
 **12.** Place a rat inside:)
+
 <img src = "https://github.com/user-attachments/assets/8f1606f9-b176-494c-8f52-d81dfaa19538" width="400">
 
-### rig
+**13. (optional)** Build a support rig using customm-cut aluminum profiles.
+
 <img src = "https://github.com/user-attachments/assets/ac34d82c-6810-4175-870f-e7a0f0f9fd26" width="400">
