@@ -1,7 +1,7 @@
 # Modular behavioral box
-Drawings for cutting all the necessary pieces for assembling a modular behavioral box for rats and mice.
+Drawings for cutting all the necessary pieces for assembling a modular behavioral box for rats and mice using 5-mm thick acrylic sheets.
 
-## Project Structure
+## Project structure
 
 - **drawings/**: Contains vector graphics files for all components of the box (i.e., walls & modules).
   
