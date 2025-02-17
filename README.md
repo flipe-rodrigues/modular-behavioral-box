@@ -36,11 +36,10 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 3. ...
 
 ### wall
-![wall](https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f)
-<img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="500">
+<img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="400">
 
 ### modules (unassembled)
-<img src = "media/photos/modules.jpg" width="400">
+<img src = "https://github.com/user-attachments/assets/a88496cf-0ec7-4dcf-afcb-167fad5ca199" width="400">
 
 ### box (unpopulated)
 <img src = "media/photos/unpopulated.jpg" width="400">
