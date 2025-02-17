@@ -21,7 +21,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 ## Assembly
 
 ### Building one box, one wall at a time:
-1. ...
+1. Print/cut the [print/wall/inner.pdf](print/box/inner.pdf) file in a 600x400 mm sheet of 5-mm-thick acrylic of your chosen color for the inside layer of the box (**white** in the examples below);
 2. ...
 3. ...
 
@@ -36,7 +36,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 3. ...
 
 ### wall
-<img src = "media/photos/wall.jpg" width="400">
+[wall.webm](https://github.com/user-attachments/assets/527c98be-d8ec-42c4-b786-48aa0acfe445)
 
 ### modules (unassembled)
 <img src = "media/photos/modules.jpg" width="400">
