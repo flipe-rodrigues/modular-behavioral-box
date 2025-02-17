@@ -4,9 +4,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 ## Project structure
 
 - **drawings/**: Contains vector graphics files for all components of the box (i.e., walls & modules).
-  
 - **media/**: Contains photos, videos & sketches illustrating some of the mechanisms.
-  
 - **print/**: Contains all print/cut-ready .pdf files.
 
 ## Parts list
