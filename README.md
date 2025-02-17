@@ -11,8 +11,8 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 - General:
   - 5-mm thick acrylic;
   - acrylic glue;
-  - 20-mm long M3 spacers;
-  - 10-mm long M3 screws;
+  - 20-mm M3 spacers;
+  - 10-mm M3 screws;
   - M3 nuts;
 
 - Specific to poke modules:
