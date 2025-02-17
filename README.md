@@ -10,8 +10,9 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 - **print/**: Contains all print/cut-ready .pdf files.
 
 ## Extra components
-- spacers
-- 
+- 20-mm long M3 nylon spacers
+- 10-mm long M3 nylon screws
+- M3 nylon nut
 
 ## Usage
 ...
