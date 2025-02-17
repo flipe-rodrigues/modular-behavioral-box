@@ -71,3 +71,8 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 **13. (optional)** Build a support rig using custom-cut aluminum profiles.
 
 <img src = "https://github.com/user-attachments/assets/ac34d82c-6810-4175-870f-e7a0f0f9fd26" width="400">
+
+## TODO
+
+- Step by step guide on assembling a poke module;
+- Fix all 'missing media' instances;
