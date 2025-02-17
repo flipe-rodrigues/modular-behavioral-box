@@ -1,20 +1,24 @@
 # modular-skinner-box
+
+## Overview
 Drawings for cutting all the necessary pieces for assembling a modular behavioral box for rats and mice.
 
-## wall
+## Usage
+
+### wall
 <img src = "media/photos/wall.jpg" width="400">
 
-## modules (unassembled)
+### modules (unassembled)
 <img src = "media/photos/modules.jpg" width="400">
 
-## box (unpopulated)
+### box (unpopulated)
 <img src = "media/photos/unpopulated.jpg" width="400">
 
-## box (populated)
+### box (populated)
 <img src = "media/photos/populated.jpg" width="400">
 
-## box (running)
+### box (running)
 <img src = "media/photos/running.jpg" width="400">
 
-## box (inside)
+### box (inside)
 <img src = "media/photos/inside.jpg" width="400">
