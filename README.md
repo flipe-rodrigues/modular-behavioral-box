@@ -23,16 +23,24 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 ### Building one box, one wall at a time
 
 **1.** Print/cut the three files under [print/wall](print/wall/), each in a 435x435 mm sheet of 5-mm-thick acrylic of your chosen color for the _inner_, _middle_ and _outer_ layers of the wall (_white_, _black_ and _crystal_ in all examples below);
-   
+
+`missing photo`
+
 **2.** Glue the three layers together using acrylic glue;
 
 <img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="400">
 
 **3.** Repeat steps 1-2 for a total of 6 walls;
 
+`missing photo`
+
 **4.** Place M3 nuts in all nut sockets of all walls;
 
+`missing photo`
+
 **5.** Screw walls together with 10-mm M3 screws.
+
+<img src = "https://github.com/user-attachments/assets/37f7c9cb-f71d-437d-adc9-434d30e29ade" width="400">
 
 ### Building two boxes in one go:
 1. Print/cut the [print/two-boxes/inner.pdf](print/box/inner.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the inside layer of the box (**white** in the examples below);
@@ -48,7 +56,6 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 <img src = "https://github.com/user-attachments/assets/a88496cf-0ec7-4dcf-afcb-167fad5ca199" width="400">
 
 ### box (unpopulated)
-<img src = "https://github.com/user-attachments/assets/37f7c9cb-f71d-437d-adc9-434d30e29ade" width="400">
 
 ### box (populated)
 <img src = "https://github.com/user-attachments/assets/772f6224-1d22-4d6e-9ab9-e0341415e778" width="400">
