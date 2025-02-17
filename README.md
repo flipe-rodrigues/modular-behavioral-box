@@ -20,10 +20,15 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 ## Usage
 
-### Building two boxes
-  1. Print/cut the [print/two-boxes/inner.pdf](print/box/inner.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the inside layer of the box (**white** in the examples below);
-  2. Print/cut the [print/two-boxes/middle.pdf](print/box/middle.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the intermediate layer of the box (**black** in the examples below);
-  3. Print/cut the [print/two-boxes/outer.pdf](print/box/outer.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the outside layer of the box (**crystal** in the examples below);
+### To build one box, one wall at a time:
+1. ...
+2. ...
+3. ...
+
+### To build two boxes in one go:
+1. Print/cut the [print/two-boxes/inner.pdf](print/box/inner.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the inside layer of the box (**white** in the examples below);
+2. Print/cut the [print/two-boxes/middle.pdf](print/box/middle.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the intermediate layer of the box (**black** in the examples below);
+3. Print/cut the [print/two-boxes/outer.pdf](print/box/outer.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the outside layer of the box (**crystal** in the examples below);
 
 ### wall
 <img src = "media/photos/wall.jpg" width="400">
