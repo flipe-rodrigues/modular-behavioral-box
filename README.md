@@ -50,6 +50,10 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 **8.** Assemble each module's four locks by putting together two _handle_ pieces (from the previous step) and a 20-mm M3 spacer;
 
+> missing photo
+
+**9.** Place all lock _feet_ inside their corresponding slots in all walls;
+
 ![locks](https://github.com/user-attachments/assets/bb2df25e-8a3e-4305-8b54-04f5ab7d51aa)
 
 ### box (populated)
