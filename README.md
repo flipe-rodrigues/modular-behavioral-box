@@ -22,3 +22,6 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 ### box (inside)
 <img src = "media/photos/inside.jpg" width="400">
+
+### rig
+<img src = "media/photos/rig.jpg" width="400">
