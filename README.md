@@ -42,7 +42,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 > missing media
 
-**5.** Screw walls together with 10-mm M3 screws;
+**5.** Screw walls together with 10-mm M3 screws at all wall joints;
 
 <img src = "https://github.com/user-attachments/assets/37f7c9cb-f71d-437d-adc9-434d30e29ade" width="400">
 
