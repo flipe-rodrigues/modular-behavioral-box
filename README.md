@@ -1,8 +1,7 @@
 # Modular behavioral box
 Drawings for cutting all the necessary pieces for assembling a modular behavioral box for rats and mice using 5-mm-thick acrylic.
 
-> better intro/motivation;
-> mention wall modularity;
+> missing a proper intro/motivation (mention wall modularity);
 
 <!--
 ## Project structure
