@@ -36,7 +36,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 3. ...
 
 ### wall
-[wall.webm](https://github.com/user-attachments/assets/527c98be-d8ec-42c4-b786-48aa0acfe445)
+![wall](https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f)
 
 ### modules (unassembled)
 <img src = "media/photos/modules.jpg" width="400">
