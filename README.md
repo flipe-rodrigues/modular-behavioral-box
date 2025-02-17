@@ -60,7 +60,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 <img src = "https://github.com/user-attachments/assets/772f6224-1d22-4d6e-9ab9-e0341415e778" width="400">
 
-**11.** Plug in your preferred control system;
+**11.** Plug in your preferred system for interfacing with sensors and actuators. Below I'm using a hybrid custom PCB (thanks to the Champalimaud's Hardware Platform) + Arduino approach;
 
 <img src = "https://github.com/user-attachments/assets/901709b5-a7c0-4837-b496-896086428e98" width="400">
 
