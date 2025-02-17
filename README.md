@@ -24,7 +24,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 **1.** Print/cut the three files under [print/wall](print/wall/), each in a 435x435 mm sheet of 5-mm-thick acrylic of your chosen color for the _inner_, _middle_ and _outer_ layers of the wall (_white_, _black_ and _crystal_ in all examples below);
 
-  `<missing photo>`
+> missing photo
 
 **2.** Glue the three layers together using acrylic glue;
 
