@@ -3,4 +3,4 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 ![demo](media/photos/wall.jpg)
 
-
+<img src = "media/photos/wall.jpg" width="400">
