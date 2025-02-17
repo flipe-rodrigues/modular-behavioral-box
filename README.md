@@ -26,7 +26,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 > missing photo
 
-**2.** Glue the three layers together using acrylic glue;
+**2.** Glue the three main layers of the wall together using acrylic glue;
 
 <img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="400">
 
@@ -49,7 +49,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 3. Print/cut the [print/two-boxes/outer.pdf](print/box/outer.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the outside layer of the box (**crystal** in the examples below);
 -->
 
-**6.** Take all your module cutout layers (from step 1) and glue them together using acrylic glue;
+**6.** Glue all your module cutout layers together using acrylic glue;
 
 <img src = "https://github.com/user-attachments/assets/a88496cf-0ec7-4dcf-afcb-167fad5ca199" width="400">
 
