@@ -1,5 +1,5 @@
 # Modular behavioral box
-Drawings for cutting all the necessary pieces for assembling a modular behavioral box for rats and mice using 5-mm thick acrylic.
+Drawings for cutting all the necessary pieces for assembling a modular behavioral box for rats and mice using 5-mm-thick acrylic.
 
 ## Project structure
 - **drawings/**: Contains vector graphics files for all components of the box (i.e., walls & modules).
@@ -9,7 +9,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 ## Parts list
 
 - General:
-  - 5-mm thick acrylic;
+  - 5-mm-thick acrylic;
   - acrylic glue;
   - 20-mm M3 spacers;
   - 10-mm M3 screws;
@@ -19,7 +19,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
   - NeoPixel 16-LED RGB rings;
 
 ## Usage
-Print/cut the [print/box/inner.pdf](print/box/inner.pdf) file in a 3000x1520 mm sheet of 5-mm thick acrylic of your chosen color for the inside of the box (white in the examples below).
+Print/cut the [print/box/inner.pdf](print/box/inner.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the inside of the box (white in the examples below).
 
 ### wall
 <img src = "media/photos/wall.jpg" width="400">
