@@ -15,7 +15,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
   - 10-mm M3 screws;
   - M3 nuts;
 
-- Specific to poke modules:
+- Specific to poke & light modules:
   - NeoPixel 16-LED RGB rings;
 
 ## Usage
