@@ -18,11 +18,12 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
   - 10-mm M3 screws;
   - M3 nuts;
   - acrylic glue + brush;
-> [!CAUTION]
-> Be sure to always wear a mask and gloves whenever handling acrylic glue, and to do it in a well-ventilated place.
 
 - Specific to poke & light modules:
   - NeoPixel 16-LED RGB rings;
+
+> [!CAUTION]
+> Be sure to always wear a mask and gloves whenever handling acrylic glue, and to do it in a well-ventilated place.
 
 ## Assembly
 
