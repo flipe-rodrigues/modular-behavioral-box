@@ -32,11 +32,11 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 **3.** Repeat steps 1-2 for a total of 6 walls;
 
-  `<missing photo>`
+> missing photo
 
 **4.** Place M3 nuts in all nut sockets of all walls;
 
-  `<missing photo>`
+> missing photo
 
 **5.** Screw walls together with 10-mm M3 screws.
 
