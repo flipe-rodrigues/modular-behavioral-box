@@ -23,7 +23,8 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 ### Building one box, one wall at a time
 
 1. Print/cut the three files under **print/wall/**, each in a 435x435 mm sheet of 5-mm-thick acrylic of your chosen color for the _inner_, _middle_ and _outer_ layers of the wall (_white_, _black_ and _crystal_ in the examples below);
-2. Glue the three layers together using acrylic glue (the result should look something like this ⬇)
+2. Glue the three layers together using acrylic glue (the result should look something like this ⬇️)
+<img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="400">
 
 ### Building two boxes in one go:
 1. Print/cut the [print/two-boxes/inner.pdf](print/box/inner.pdf) file in a 3000x1520 mm sheet of 5-mm-thick acrylic of your chosen color for the inside layer of the box (**white** in the examples below);
@@ -34,9 +35,6 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 1. ...
 2. ...
 3. ...
-
-### wall
-<img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="400">
 
 ### modules (unassembled)
 <img src = "https://github.com/user-attachments/assets/a88496cf-0ec7-4dcf-afcb-167fad5ca199" width="400">
