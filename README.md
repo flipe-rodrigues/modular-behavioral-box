@@ -3,7 +3,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 ## Project structure
 - **drawings/**: Contains vector graphics files for all components of the box (i.e., walls & modules).
-- **media/**: Contains photos, videos & sketches illustrating some of the mechanisms.
+- **media/**: Contains photos, videos & sketches illustrating some of the mechanisms and assembly steps.
 - **print/**: Contains all print/cut-ready .pdf files.
 
 ## Parts list
@@ -18,7 +18,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 - Specific to poke & light modules:
   - NeoPixel 16-LED RGB rings;
 
-## Usage
+## Assembly
 
 ### Building one box, one wall at a time:
 1. ...
