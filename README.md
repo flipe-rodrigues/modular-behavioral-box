@@ -19,7 +19,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
   - NeoPixel 16-LED RGB rings;
 
 ## Usage
-...
+Print the **print/box/inner.pdf**
 
 ### wall
 <img src = "media/photos/wall.jpg" width="400">
