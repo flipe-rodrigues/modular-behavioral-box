@@ -43,7 +43,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 <img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="400">
 
-**4.** Repeat steps 1-2 for a total of 6 walls;
+**4.** Repeat steps 1-3 for a total of 6 walls;
 
 > missing media
 
