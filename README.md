@@ -37,7 +37,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 > [!TIP]
 > Glue the three layers of the jig itself after aligning them with the screws.
 
-> missing media
+<img src="https://github.com/user-attachments/assets/5c28d7e2-2dcf-4efd-8b90-d1e9c8571efd" width="400">
 
 **3.** Place the three main layers of the wall on the jig and glue them together;
 
