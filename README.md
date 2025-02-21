@@ -69,7 +69,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 > missing media
 
-**10.** Place all lock _feet_ inside their corresponding slots in all walls, and then insert all lock _handles_;
+**10.** Place all lock _feet_ inside their corresponding slots in all walls, and then insert all lock _handles_ such that they point inwards when in the locked position;
 
 ![locks](https://github.com/user-attachments/assets/bb2df25e-8a3e-4305-8b54-04f5ab7d51aa)
 
