@@ -39,7 +39,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 <img src="https://github.com/user-attachments/assets/5c28d7e2-2dcf-4efd-8b90-d1e9c8571efd" width="400">
 
-**3.** Place the three main layers of the wall on the jig and glue them together;
+**3.** Place the three main layers of the wall in the jig and glue them together;
 
 <img src="https://github.com/user-attachments/assets/703faaff-8ef2-4cdd-a877-18dca83c7b4f" width="400">
 
