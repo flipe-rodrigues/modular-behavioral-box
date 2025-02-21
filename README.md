@@ -29,7 +29,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 <!--### I. One box, one wall at a time-->
 
-**1.** Print/cut the three files under [print/wall](print/wall/), each in a 450x450 mm sheet of 5-mm-thick acrylic of your chosen color for the _inner_, _middle_ and _outer_ layers of the wall (_white_, _black_ and _crystal_ in all examples below);
+**1.** Print/cut the three files under [print/wall](print/wall/), each in a 450x450 mm sheet of 5-mm-thick acrylic of your chosen color for the _inner_, _middle_ and _outer_ layers of the wall (respectively _white_, _black_ and _crystal_ in all examples below);
 
 > missing media
 
