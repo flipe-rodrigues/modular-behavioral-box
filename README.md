@@ -33,9 +33,9 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 > missing media
 
-**2.** Screw the outer pieces of the three pieces together to create a jig for gluing walls.
+**2.** Screw the outer pieces of the three layers together to create a jig for gluing _walls_.
 > [!TIP]
-> Glue the three layers of the jig itself after screwing.
+> Glue the three layers of the jig itself after aligning them with the screws.
 
 > missing media
 
@@ -55,9 +55,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 <img src = "https://github.com/user-attachments/assets/37f7c9cb-f71d-437d-adc9-434d30e29ade" width="400">
 
-**7.** Glue the three layers of all your modules (cutouts from step 1) together using acrylic glue;
-> [!TIP]
-> Use a wall as a jig for gluing modules.
+**7.** Using a wall as a jig, glue the three layers of all your modules (cutouts from step 1) together using acrylic glue;
 
 > missing a step by step guide on assembling a poke module;
 
