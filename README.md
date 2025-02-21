@@ -33,7 +33,7 @@ Drawings for cutting all the necessary pieces for assembling a modular behaviora
 
 > missing media
 
-**2.** Screw the outer pieces of the three layers together to create a jig for gluing _walls_.
+**2.** Screw the outermost pieces of the three layers together to create a jig for gluing _walls_.
 > [!TIP]
 > Glue the three layers of the jig itself after aligning them with the screws.
 
